@@ -18,7 +18,6 @@ import java.util.Scanner;
 public class IP_Ex1 {
     
     public static void main(String[] args) {
-        
         String filename="/Users/sami/desktop/matrix.txt";
         String linie=null;
         String[][] matrix2=new String[10][10];
